@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EducApp</string>
+    <string name="title_activity_bdaccess">BDAccessActivity</string>
 </resources>
